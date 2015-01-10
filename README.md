@@ -1,2 +1,2 @@
 # Ghost
-Repository for testing themes on the Ghost blogging platform
+Repository to test themes on the Ghost blogging platform
